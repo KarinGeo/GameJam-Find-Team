@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74d20ba22abd8c64f98395cf847e87f9, type: 3}
+  m_Name: LaserTower
+  m_EditorClassIdentifier: 
+  _id: 1002
+  _towerType: 2
+  _prefab: {fileID: 9100207462235697967, guid: b129f9b2ac16e984aa7fdd762a7f165d, type: 3}
+  _obj: {fileID: 4585136782433107957, guid: 6878b26837207da428a801d2d074af71, type: 3}
+  _level:
+  - {fileID: 21300000, guid: 171a6c5d212c0cc48947860951933e90, type: 3}
+  - {fileID: 21300000, guid: c16c127ef6ec8114f8f93cf23478838c, type: 3}
+  - {fileID: 21300000, guid: 675549b5d45158845b71f94881a3e4c0, type: 3}
+  _cost: 96000000fa0000005e010000
+  _sale: 78000000c800000018010000

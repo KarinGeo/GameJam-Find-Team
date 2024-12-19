@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74d20ba22abd8c64f98395cf847e87f9, type: 3}
+  m_Name: BulletTower
+  m_EditorClassIdentifier: 
+  _id: 1001
+  _towerType: 0
+  _prefab: {fileID: 9100207462235697967, guid: a854e5721c21ec64982b3f178df80fe6, type: 3}
+  _obj: {fileID: 5508058127679151346, guid: 5b4e2699fb2dc364697ef2d44064c188, type: 3}
+  _level:
+  - {fileID: 21300000, guid: c19f9a7a7bdcc00469695e255466462d, type: 3}
+  - {fileID: 21300000, guid: a1450934577e0ba40af03db40cb00a93, type: 3}
+  - {fileID: 21300000, guid: 5ab4ea5a77807594183982a39481740c, type: 3}
+  _cost: 64000000c80000002c010000
+  _sale: 50000000a0000000f0000000
